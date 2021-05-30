@@ -1,0 +1,51 @@
+INFO: checking out_of_order
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+WARNING: The following components have multiple inputs connected to the same source, which can introduce unnecessary data transfer overhead:
+   traj.phases.phase0.timeseries has inputs ['input_values:dM_ds', 'input_values:state_rates:M_fuel'] connected to traj.phases.phase0.rhs_all.time.dM_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dOmega_ds', 'input_values:state_rates:Omega'] connected to traj.phases.phase0.rhs_all.time.dOmega_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dU_ds', 'input_values:state_rates:U'] connected to traj.phases.phase0.rhs_all.time.dU_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dV_ds', 'input_values:state_rates:V'] connected to traj.phases.phase0.rhs_all.time.dV_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dalpha_ds', 'input_values:state_rates:alpha'] connected to traj.phases.phase0.rhs_all.time.dalpha_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dn_ds', 'input_values:state_rates:n'] connected to traj.phases.phase0.rhs_all.time.dn_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dt_ds', 'input_values:state_rates:t'] connected to traj.phases.phase0.rhs_all.timeAdder.dt_ds
+
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
+INFO: checking out_of_order
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+WARNING: The following components have multiple inputs connected to the same source, which can introduce unnecessary data transfer overhead:
+   traj.phases.phase0.timeseries has inputs ['input_values:dM_ds', 'input_values:state_rates:M_fuel'] connected to traj.phases.phase0.rhs_all.time.dM_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dOmega_ds', 'input_values:state_rates:Omega'] connected to traj.phases.phase0.rhs_all.time.dOmega_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dU_ds', 'input_values:state_rates:U'] connected to traj.phases.phase0.rhs_all.time.dU_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dV_ds', 'input_values:state_rates:V'] connected to traj.phases.phase0.rhs_all.time.dV_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dalpha_ds', 'input_values:state_rates:alpha'] connected to traj.phases.phase0.rhs_all.time.dalpha_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dn_ds', 'input_values:state_rates:n'] connected to traj.phases.phase0.rhs_all.time.dn_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dt_ds', 'input_values:state_rates:t'] connected to traj.phases.phase0.rhs_all.timeAdder.dt_ds
+
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
+INFO: checking out_of_order
+INFO: checking system
+INFO: checking solvers
+INFO: checking dup_inputs
+WARNING: The following components have multiple inputs connected to the same source, which can introduce unnecessary data transfer overhead:
+   traj.phases.phase0.timeseries has inputs ['input_values:dM_ds', 'input_values:state_rates:M_fuel'] connected to traj.phases.phase0.rhs_all.time.dM_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dOmega_ds', 'input_values:state_rates:Omega'] connected to traj.phases.phase0.rhs_all.time.dOmega_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dU_ds', 'input_values:state_rates:U'] connected to traj.phases.phase0.rhs_all.time.dU_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dV_ds', 'input_values:state_rates:V'] connected to traj.phases.phase0.rhs_all.time.dV_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dalpha_ds', 'input_values:state_rates:alpha'] connected to traj.phases.phase0.rhs_all.time.dalpha_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dn_ds', 'input_values:state_rates:n'] connected to traj.phases.phase0.rhs_all.time.dn_ds
+   traj.phases.phase0.timeseries has inputs ['input_values:dt_ds', 'input_values:state_rates:t'] connected to traj.phases.phase0.rhs_all.timeAdder.dt_ds
+
+INFO: checking missing_recorders
+WARNING: The Problem has no recorder of any kind attached
+INFO: checking comp_has_no_outputs
+INFO: checking auto_ivc_warnings
